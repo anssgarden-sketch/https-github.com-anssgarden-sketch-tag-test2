@@ -1,0 +1,24 @@
+[
+  {
+    "id": "v-1789702014508",
+    "category": "VENDETTA",
+    "priority": "CRITICAL",
+    "title": "PRIVATE VENDETTA // CONTRACT ON HITMAN ZERO",
+    "target_name": "Hitman Zero",
+    "target_character_id": "char-test-pc-1",
+    "target_city": "Berlin",
+    "target_status": "LIQUIDATED",
+    "bounty_credits": 60508,
+    "issued_by": "Associates of Courier Alexei (The Zurich Blind Trust Creditors)",
+    "victim_name": "Courier Alexei",
+    "victim_character_id": "npc-neutral-01",
+    "incident_city": "Berlin",
+    "body": "NOTICE OF ESCALATED BLOOD DEBT: Associates of Fixer Raymond (The Kowloon Triad Union) has increased the private bounty on operative Hitman Zero (+25000 CHF) following repeated reckless violence against Fixer Raymond in Berlin. The Sedes Obscura Grand Chancellery remains neutral, but private escrow has been verified.",
+    "is_active": false,
+    "created_at": "2026-09-18T03:26:54.508Z",
+    "escalation_count": 2,
+    "updated_at": "2026-09-18T03:26:54.509Z",
+    "resolved_at": "2026-09-18T03:26:54.510Z",
+    "killer_name": "CLASSIFIED OPERATIVE"
+  }
+]
